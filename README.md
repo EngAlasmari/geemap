@@ -9,3 +9,5 @@
 4- create landsat timelapse [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EngAlasmari/geemap/main?labpath=create_landsat_timelapse.ipynb)
 
 5- whitebox tools [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EngAlasmari/geemap/main?labpath=whitebox.ipynb)
+
+6- contours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EngAlasmari/geemap/main?labpath=contours.ipynb)

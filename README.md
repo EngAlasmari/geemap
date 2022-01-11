@@ -11,3 +11,7 @@
 5- whitebox tools [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EngAlasmari/geemap/main?labpath=whitebox.ipynb)
 
 6- contours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EngAlasmari/geemap/main?labpath=contours.ipynb)
+
+7- colormaps [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EngAlasmari/geemap/main?labpath=colormaps.ipynb)
+
+8- time sliders [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EngAlasmari/geemap/main?labpath=time_slider.ipynb)
